@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Aplicação que utiliza uma API externa para que o ReactJS possa coletar os valores de temperatura, humidade, sensação térmica e pressão atmosférica retornando para o usuário os respectivos valores seguido de uma pequena informação de como o dia está (Claro, Nuvens, ensolarado etc.).
 
-![Weather App]()
+![Weather App](https://github.com/yanmaiaa/WeatherApp/blob/master/weather.gif)
 ## Available Scripts
 
 
